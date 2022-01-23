@@ -1,6 +1,6 @@
 # How To Host
 The easiest way to deploy this Bot
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/QueenArzoo/VCPlayBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/IsekaiBot/IsekaiMusicBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 - Support Channel :- [Awesome Bot](http://t.me/LaylaList)
@@ -91,5 +91,5 @@ If you donlt like to play in linked channel:
 
 #### Special Credits
 - [Rojserbest](http://github.com/rojserbes): Callsmusic Developer
-- [Awesome Bot](http://t.me/LaylaList) Channel bot list
-- [Dev](http://t.me/HEROGAMERS1) Hero owner of this bot
+- [Update Bot](http://t.me/ReszzzUpdate) Channel bot list
+- [Dev](http://t.me/ThisMeBroooo) Hero owner of this bot
